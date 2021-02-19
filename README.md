@@ -1,3 +1,3 @@
 # Sunny_Land_2D
 
-<img src="e.jpg" alt="sunny land">
+<img src="e.jpeg" alt="sunny land">
